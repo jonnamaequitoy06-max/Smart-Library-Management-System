@@ -26,12 +26,11 @@ Features
 - Delete Member Record
 - Search Member
 
-Contributor Update
-
-Contributor Name: 
+Contributor Name: Allen Dimasaca
 
 Feature Added:
 - Digital Library Dashboard
+
 
 
 _Last updated during GitHub Actions laboratory._
